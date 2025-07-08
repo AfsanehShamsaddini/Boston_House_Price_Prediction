@@ -31,3 +31,6 @@ Here are a few places you can look for data
   https://toolbox.google.com/datasetsearch
   
   https://archive.ics.uci.edu/ml/datasets.html
+
+  ## Libraries
+Numpy, Pandas, Scikit-learn, Matplotlib and Seaborn.
